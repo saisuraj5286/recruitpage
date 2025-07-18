@@ -16,7 +16,10 @@ export default async function Home() {
       
         <p className="mt-2 bg-white p-2 rounded-lg shadow-md">
         <Link href="/home">Go to Home</Link>
-      </p>     
+      </p>    
+        <p className="mt-2 bg-white p-2 rounded-lg shadow-md">
+        <Link href="/portfolio">Go to Portfolio</Link>
+      </p> 
       </div>
     </div>
   );
