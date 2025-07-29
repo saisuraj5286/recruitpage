@@ -3,8 +3,8 @@ import React from "react";
 
 const Portfolio1 = () => {
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center bg-violet-50">
-      <div className="flex max-w-[70%] flex-col items-center justify-center gap-5 rounded-2xl bg-white p-15 shadow-lg">
+    <div className="flex min-h-screen flex-col sm:p-10 items-center justify-center bg-violet-50">
+      <div className="flex max-w-[70%]  flex-col items-center justify-center gap-5 rounded-2xl bg-white p-15 shadow-lg">
         <h1 className=" flex flex-col text-center lg:text-6xl text-4xl font-bold">
           <span>Build a portfolio</span>
           <span className="text-blue-600"> Recruiters Can't Ignore</span>
