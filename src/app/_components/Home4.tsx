@@ -1,6 +1,6 @@
 'use client';
 
-import React, { use } from 'react'
+import React from 'react'
 import { CheckCircle, GraduationCap, Brain, Zap } from "lucide-react";
 
 import Home4Card from './Home4Card';
@@ -52,7 +52,7 @@ const Home4 = () => {
         ))}
       </div>
       <div className='bg-blue-100 p-10 text-center m-10 md:max-w-[60%] sm:max-w-[70%] mx-auto rounded-xl shadow-lg'>
-        <p className='text-xl'> Ready to experience career development that's <span className='text-blue-500 font-bold'>evidence-driven, mentor-supported, and recruiter-ready</span> ? </p>
+        <p className='text-xl'> Ready to experience career development that&apos;s <span className='text-blue-500 font-bold'>evidence-driven, mentor-supported, and recruiter-ready</span> ? </p>
       </div>
     </div>
   )

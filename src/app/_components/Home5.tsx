@@ -27,7 +27,7 @@ const Home5 = () => {
         </div>
       </div>
       <div className='max-w-[90%] mx-auto mt-10 text-center'>
-        <h1 className='xl:text-6xl lg:text-5xl md:text-4xl text-3xl text-white font-bold '>Whether you're a learner, recruiter, mentor, or ecosystem partner — we'd love to build with you.</h1>
+        <h1 className='xl:text-6xl lg:text-5xl md:text-4xl text-3xl text-white font-bold '>Whether you&apos;re a learner, recruiter, mentor, or ecosystem partner — we&apos;d love to build with you.</h1>
       </div>
       <div className='p-5 m-3'>
         <button className="flex items-center gap-2 bg-white text-blue-700 font-semibold px-7 py-4 rounded-xl mx-auto shadow-xl hover:bg-blue-100 transition-all">
@@ -38,7 +38,7 @@ const Home5 = () => {
       </div>
       <div className='m-4'>
         <p className='text-center text-white max-w-[80%] mx-auto text-lg'>
-          Join a community that's reshaping how careers are built, one success story at a time.
+          Join a community that&apos;s reshaping how careers are built, one success story at a time.
         </p>
       </div>
       <div className='mt-14 max-w-[80%]  mx-auto'>

@@ -54,7 +54,7 @@ const Home2 = () => {
       </div>
       <div className=" flex max-h-[70%] lg:max-w-[45%] sm:max-w-[75%] flex-col  gap-3 rounded-xl bg-white ">
         {/* right box */}
-        <h1 className="font-semibold xl:text-5xl sm:text-4xl ">Getting hired shouldn't feel like a <span className="text-blue-400">mystery</span></h1>
+        <h1 className="font-semibold xl:text-5xl sm:text-4xl ">Getting hired shouldn&apos;t feel like a <span className="text-blue-400">mystery</span></h1>
         <p className="text-xl text-justify">We started this platform with one goal: to make global careers <span className="text-blue-400">accessible, intentional, and evidence-driven </span> for ambitious learners
         in data, analytics, business, and tech.</p>
         <p className="text-xl text-justify">What began as a resume service had grown into a <span className="text-blue-400"> full stack career launch platform </span>— with live Portfolios, AI powered mock interviews, 

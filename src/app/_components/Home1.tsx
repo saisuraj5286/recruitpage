@@ -22,7 +22,7 @@ const Home1 = () => {
           Build for Learners. Backed by Experts. Trusted by Recruiters.
         </h1>
         <p className="mt-4  items-center text-center font-light text-3xl lg:text-3xl md:text-2xl sm:text-2xl xl:max-w-[48%] lg:max-w-[58%] md:max-w-[65%]">
-          We're reimagining how careers are launched — not with luck or guesswork, but with <span className='text-3xl lg:text-3xl md:text-2xl sm:text-2xl font-bold'> skill, proof and visibility.</span>
+          We&apos;re reimagining how careers are launched — not with luck or guesswork, but with <span className='text-3xl lg:text-3xl md:text-2xl sm:text-2xl font-bold'> skill, proof and visibility.</span>
         </p>
           <div className="flex justify-center items-center mt-10 gap-8">
             <div className='rotate-3'>

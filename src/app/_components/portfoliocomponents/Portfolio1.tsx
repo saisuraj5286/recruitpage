@@ -7,7 +7,7 @@ const Portfolio1 = () => {
       <div className="flex max-w-[70%]  flex-col items-center justify-center gap-5 rounded-2xl bg-white p-15 shadow-lg">
         <h1 className=" flex flex-col text-center lg:text-6xl text-4xl font-bold">
           <span>Build a portfolio</span>
-          <span className="text-blue-600"> Recruiters Can't Ignore</span>
+          <span className="text-blue-600"> Recruiters Can&apos;t Ignore</span>
         </h1>
         <p className="text-center lg:text-2xl text-xl">
           Transform your projects, certifications, and technical skills into a
@@ -21,7 +21,7 @@ const Portfolio1 = () => {
             color="white"
             className="group-hover:animate-[bounceUpDown_0.6s_ease-in-out_infinite]"
           />
-          <a href="/#" className="text-xl text-white">
+          <a href="#" className="text-xl text-white">
             Create my showcase profile
           </a>
         </div>

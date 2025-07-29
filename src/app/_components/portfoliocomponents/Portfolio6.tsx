@@ -16,7 +16,7 @@ const Portfolio6 = () => {
         <a href="#" className='font-semibold text-2xl text-blue-600'>Start Building now </a>
         <ArrowRight size={25} color='blue'  />
       </div>
-      <p className='text-center text-white '>Join thousands of professionals who've already transformed their careers </p>
+      <p className='text-center text-white '>Join thousands of professionals who&apos;ve already transformed their careers </p>
     </div>
   )
 }

@@ -57,7 +57,7 @@ const Home3 = () => {
         
       </div>
       <div className='max-w-[60%] bg-white p-8 rounded-xl shadow-xl m-10 mx-auto '>
-            <p className='text-2xl text-center italic'>"We're here to give you tools that deliver <span className='text-blue-500 font-bold'>outcomes</span> — not just education"</p>
+            <p className='text-2xl text-center italic'>&quot;We&apos;re here to give you tools that deliver <span className='text-blue-500 font-bold'>outcomes</span> — not just education&quot;</p>
         </div>
     </div>
   )

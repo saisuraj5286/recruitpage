@@ -40,7 +40,7 @@ const carddata = [
 const Portfolio3 = () => {
   return (
     <div className="min-h-screen  bg-blue-50">
-      <h1 className='mx-auto text-5xl xl:max-w-[50%] sm:max-w-[70%]  text-center p-5 font-bold'>Everything You Need to Impress — <span className='text-blue-600'> Nothing you don't.</span></h1>
+      <h1 className='mx-auto text-5xl xl:max-w-[50%] sm:max-w-[70%]  text-center p-5 font-bold'>Everything You Need to Impress — <span className='text-blue-600'> Nothing you don&apos;t.</span></h1>
         <div className='grid lg:grid-cols-3 lg:grid-rows-2 sm:grid-cols-2 sm:grid-rows-3 gap-4 p-10 max-w-[90%] mx-auto'>
             {carddata.map((card, index) => (
                 <Portfolio3Card
